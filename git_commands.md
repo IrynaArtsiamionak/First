@@ -42,3 +42,20 @@ git checkout master
 ```sh
 git restore
 ```
+
+# Работа с ветками
+
+## Вывести список веток
+```sh
+git branch
+```
+
+## Создать ветку
+```sh
+git branch <имя ветки>
+```
+
+## Переход между ветками
+```sh
+git checkout <имя ветки>
+```
